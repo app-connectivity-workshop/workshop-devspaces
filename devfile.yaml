@@ -1,6 +1,6 @@
 schemaVersion: 2.2.0
 metadata:
-  name: cloud-architecture-workshop
+  name: app-connectivity-workshop
 attributes:
   controller.devfile.io/storage-type: ephemeral
 components:
